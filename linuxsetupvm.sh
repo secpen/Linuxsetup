@@ -5,6 +5,5 @@ apt-get -y upgrade
 apt-get install lxde -y
 apt-get install xrdp -y
 /etc/init.d/xrdp start
-git clone https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
-git clone https://github.com/ExAndroidDev/impacket.git
+apt install bloodhound neo4j
 
