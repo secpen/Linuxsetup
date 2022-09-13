@@ -5,5 +5,4 @@ apt-get -y upgrade
 apt-get install lxde -y
 apt-get install xrdp -y
 /etc/init.d/xrdp start
-apt install bloodhound neo4j
 
